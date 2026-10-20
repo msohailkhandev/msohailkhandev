@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sohail Khan
 
-<!--
-**msohailkhandev/msohailkhandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full Stack Developer / AI Agents**
 
-Here are some ideas to get you started:
+Tech Lead at LoopxCorp, leading a team of 7 developers building products for international clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build**
+- Mobile apps with Flutter
+- Web platforms with Next.js
+- APIs with Node.js and NestJS
+- AI agents, RAG pipelines and LLM integrations
+- Automation that removes manual work
+
+**Currently**
+Shipping AI powered products and sharing what I learn in public.
+
+**Connect**
+- LinkedIn: linkedin.com/in/msohailkhandev
+- X: x.com/msohailkhandev
