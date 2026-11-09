@@ -2,7 +2,7 @@
 
 **Technical Lead · Full Stack Developer · Agentic AI Developer**
 
-I'm Sohail Khan, also known as **msohailkhandev** and **msohailkhan**. I'm a Technical Lead at LoopxCorp based in Islamabad, Pakistan, leading a team of 7 developers and building production web, mobile and AI systems for international teams.
+I'm Sohail Khan, also known as **msohailkhandev** and **msohailkhan**. I'm a Technical Lead based in Islamabad, Pakistan, leading a team of 7 developers and building production web, mobile and AI systems for international teams.
 
 I've been shipping software professionally since 2019 across full stack engineering, mobile development, backend architecture and applied AI.
 
